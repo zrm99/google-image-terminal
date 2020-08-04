@@ -20,7 +20,7 @@ function GoogleImage(image) {
       (async () => {
         var num = Math.floor(Math.random() * (imageLimit + 1));
         const body = await got(results[num].url).buffer();
-        console.log(await terminalImage.buffer(body, {width: '50%', height: '50%'}));
+        console.log(await terminalImage.buffer(body, {width: '80%', height: '80%'}));
         console.log(results[num].url + '\n');
       })();
     }

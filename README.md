@@ -22,4 +22,8 @@ There is a limit of ten google images to keep the relevancy of the search term, 
 change the limit, simply change the variable, 'imageLimit' in start.js from
 '10' to the desired amount.
 
+<h4> Screenshots </h4>
+
 ![Terminal search](https://user-images.githubusercontent.com/36284384/89242526-a2c7f900-d5b6-11ea-9500-3da321b6ecbb.JPG)
+
+![search](https://user-images.githubusercontent.com/36284384/89247260-d3616000-d5c1-11ea-99aa-85d159c6c241.JPG)
